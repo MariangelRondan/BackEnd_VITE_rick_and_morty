@@ -1,4 +1,1 @@
-# BackEnd_VITE_rick_and_morty
-# BackEnd_VITE_rick_and_morty
-# BackEnd_VITE_rick_and_morty
-# BackEnd_VITE_rick_and_morty
+holis
